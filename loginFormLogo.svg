@@ -1,0 +1,18 @@
+<svg id="Component_282_1" data-name="Component 282 – 1" xmlns="http://www.w3.org/2000/svg" width="232.17" height="232.17" viewBox="0 0 232.17 232.17">
+  <line id="Line_101" data-name="Line 101" x2="232.17" transform="translate(0 116.085)" fill="none" stroke="#e2e2e2" stroke-width="1"/>
+  <line id="Line_102" data-name="Line 102" x2="232.17" transform="translate(111.074) rotate(90)" fill="none" stroke="#e2e2e2" stroke-width="1"/>
+  <g id="Group_2816" data-name="Group 2816" transform="translate(47.185 46.351)">
+    <g id="Group_2814" data-name="Group 2814" transform="translate(51.574 56.892)">
+      <g id="Group_2813" data-name="Group 2813">
+        <circle id="Ellipse_98" data-name="Ellipse 98" cx="12.839" cy="12.839" r="12.839"/>
+      </g>
+    </g>
+    <g id="Group_2815" data-name="Group 2815" transform="translate(0)">
+      <rect id="Rectangle_707" data-name="Rectangle 707" width="10.19" height="33.596" transform="translate(59.317)" fill="#fbca1c"/>
+      <rect id="Rectangle_708" data-name="Rectangle 708" width="10.19" height="33.596" transform="translate(94.098 76.157) rotate(-90)" fill="#fbca1c"/>
+      <rect id="Rectangle_709" data-name="Rectangle 709" width="10.19" height="33.596" transform="translate(0 76.157) rotate(-90)" fill="#fbca1c"/>
+      <rect id="Rectangle_710" data-name="Rectangle 710" width="10.19" height="33.596" transform="translate(59.317 105.929)" fill="#fbca1c"/>
+    </g>
+    <circle id="Ellipse_99" data-name="Ellipse 99" cx="50.423" cy="50.423" r="50.423" transform="translate(13.424 19.339)" fill="none" stroke="#fbca1c" stroke-width="7"/>
+  </g>
+</svg>
